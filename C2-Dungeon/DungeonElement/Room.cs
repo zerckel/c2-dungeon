@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace C2_Dungeon
 {
-    class Piece
+    class Room
     {
     }
 }
