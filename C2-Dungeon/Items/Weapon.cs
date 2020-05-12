@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace C2_Dungeon
 {
+
     class Weapon
     {
+
+        int attPoint;
+        public Weapon(int ATKPOINT)
+        {
+            attPoint = ATKPOINT;
+        }
     }
 }
